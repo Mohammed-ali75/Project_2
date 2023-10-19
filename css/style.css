@@ -1,4 +1,5 @@
 body {
+  width: 99vw;
   height: 3080px;
   background-color: #ede0d4;
   font-family: "varela round", sans-serif;
@@ -83,7 +84,6 @@ nav {
   right: 19.3%;
   top: 7.15%;
   position: absolute;
-  z-index: -10;
 }
 .tape-item h3 .number {
   bottom: 11%;
